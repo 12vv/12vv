@@ -1,4 +1,4 @@
-![header](./header.jpg)
+![header](./header.png)
 
 ### About me
 

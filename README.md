@@ -8,7 +8,7 @@
 
 - 🌱 I’m always learning something.
 
-- 👨‍💻 Check out some of my works at [https://jay-ye.vercel.app/](https://jay-ye.vercel.app/)
+- 👨‍💻 Check out some of my works at [https://jaythan.netlify.app/](https://jaythan.netlify.app/)
 
 - 📫 How to reach me **yegarrick12@gmail.com**
 
